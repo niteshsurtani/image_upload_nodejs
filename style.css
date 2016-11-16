@@ -1,0 +1,15 @@
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
